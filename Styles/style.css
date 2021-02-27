@@ -139,4 +139,7 @@ footer img{
 }
 footer h5 {
     text-align: center;
+    padding: 2px;
+    margin: 0px;
+    margin-top: -10px;
 }
